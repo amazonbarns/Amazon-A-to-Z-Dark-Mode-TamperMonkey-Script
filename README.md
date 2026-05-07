@@ -30,7 +30,7 @@ TamperMonkey is a userscript manager that allows you to run custom scripts on we
 
 1. Open your browser and ensure TamperMonkey is installed and enabled.
 
-2. Navigate to this GitHub repository: https://github.com/amazonbarns/Amazon-A-to-Z-Dark-Mode-TamperMonkey-Script
+2. Navigate to this GitHub repository: https://github.com/BarnsAWS/Amazon-A-to-Z-Dark-Mode-TamperMonkey-Script
 
 3. Click on the file named `atoz_dark_mode.user.js`
 
